@@ -3,6 +3,9 @@ package br.com.gerenciadorcampeonatos.util;
 
 import br.com.gerenciadorcampeonatos.modelo.Jogador;
 import br.com.gerenciadorcampeonatos.modelo.Time;
+
+import java.util.List;
+
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
