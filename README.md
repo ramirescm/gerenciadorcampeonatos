@@ -1,4 +1,4 @@
-#Projeto Gerenciador de Campeonatos
+# Projeto Gerenciador de Campeonatos
 
 * Tecnologias utilizadas
 - Java
@@ -7,7 +7,7 @@
 - CDI
 
 
-#Rodando o projeto
+# Rodando o projeto
 1 - Copiar o arquivo gecampeonato-ds.xml para a pasta deployments do wildfly.
 2 - Criar o banco de dados gecampeonato.
 3 - Fazer deploy da aplicação no servidor de aplicação.
