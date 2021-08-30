@@ -1,10 +1,5 @@
-# Projeto Gerenciador de Campeonatos
-
-* Tecnologias utilizadas
-- Java
-- JPA 
-- Hibernate
-- CDI
+# Gerenciador de campeonatos
+Projeto de estudo e aplicaçaõ de tecnologias Java, JPA, Hibernate, CDI
 
 
 # Rodando o projeto
